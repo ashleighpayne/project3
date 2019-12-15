@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StoreManager",
+            "request": "launch",
+            "mainClass": "StoreManager",
+            "projectName": "src_1b71e802"
+        }
+    ]
+}
